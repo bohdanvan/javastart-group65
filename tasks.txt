@@ -21,7 +21,7 @@ I have eaten a cake. 0 are left.
 Wonderful world.
 
 IN: cakes=4.
-I have 3 cakes.
+I have 4 cakes.
 I have eaten 1 cake.
 I have eaten 2 cake.
 Wonderful world.
