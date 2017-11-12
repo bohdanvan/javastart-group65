@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author bvanchuhov
  */
-public class ArrayExample {
+public class ArrayFiller {
 
     public static void main(String[] args) {
         int[] array = new int[10];
