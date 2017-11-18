@@ -15,7 +15,7 @@ int n2 = 10 + random.nextInt(11); // псевдослучайное число 1
 2. Написать метод, создающий массив,
 заполненный псевдослучайными числами.
 
-int createRandomArray(int size, int min, int max) { ... }
+int[] createRandomArray(int size, int min, int max) { ... }
 
 Написать проверочный клиентский код,
 создающий массив из возрастов 10 людей.
