@@ -23,6 +23,7 @@ int[] createRandomArray(int size, int min, int max) { ... }
 
 3. Написать метод, который в массиве возрастов
 находит количество подростков.
+Возраст подростка - 12...18.
 
 int countTeenagers(int[] ages) { ... }
 
