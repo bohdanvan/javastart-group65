@@ -9,7 +9,8 @@ int random(int min, int max) { ... }
 
 Подсказка:
 Random random = new Random();
-int n = random.nextInt(10); // прсевдослучайное число 0..9
+int n1 = random.nextInt(10); // псевдослучайное число 0..9
+int n2 = 10 + random.nextInt(11); // псевдослучайное число 10..20
 
 2. Написать метод, создающий массив,
 заполненный псевдослучайными числами.
